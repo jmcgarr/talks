@@ -1,5 +1,5 @@
-## Cultural Cartography
+# A newcomer's guide to culture
 
-Joining a new organization isn't easy. A new team will often feel alien. Newcomers are expected to quickly assimilate, often into an environment that is only vaguely aware of itself. In order to be successful within any organization, one must quickly understand the organization's culture. Like an explorer in uncharted territory, the best way to know where you are going is to find a map. A map of the organization's culture. But what if one doesn't exist?
+Joining a new organization isn't easy. A new team can often feel alien. Newcomers are expected to quickly assimilate, often into an environment that is only vaguely self-aware. Newcomers who are deemed successful are able to quickly understand and execute according to the new organization's expectations. Culture is one of the most impactful forces that will impact your job. So, if culture is so important to your success, do you know how to quickly assess it? Can you quickly gather an accurate understanding of an organization's culture?
 
-In this talk, Mike will explore techniques for making sense of an organization's culture. As he elaborates in his talk, culture is the ever present set of expectations and behaviors of those around you. Culture is what make great companies successful and how companies with great ideas fail to execute.
+In this talk, Mike McGarr (Slack Engineering) will explore techniques for understanding an organization's culture. Mike will share his perspective on organizational culture and how best to understand the forces at play in your everyday life. 
