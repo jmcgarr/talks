@@ -1,5 +1,5 @@
-# A newcomer's guide to culture
+## Micro-cultures and finding your way
 
-Joining a new organization isn't easy. A new team can often feel alien. Newcomers are expected to quickly assimilate, often into an environment that is only vaguely self-aware. Newcomers who are deemed successful are able to quickly understand and execute according to the new organization's expectations. Culture is one of the most impactful forces that will impact your job. So, if culture is so important to your success, do you know how to quickly assess it? Can you quickly gather an accurate understanding of an organization's culture?
+Most of work with people, often as a member of a team. We join a team because they are doing work that we are interested in, and we bring something valuable to the team. And as our careers progress, we work on good teams, bad teams, and hopefully great teams! But why did we enjoy these great teams and what made them unique and special? What do we miss about these teams that we sometimes struggle to recapture throughout the rest of our career?
 
-In this talk, Mike McGarr (Slack Engineering) will explore techniques for understanding an organization's culture. Mike will share his perspective on organizational culture and how best to understand the forces at play in your everyday life. 
+In this talk, Mike McGarr (Slack Engineering) will try and answer this question by exploring the essence of organizational culture and how it impacts our work. Mike will also explore the micro-cultures that can exist within an organization that provide layers of influence into our lives and job satisfaction. 
