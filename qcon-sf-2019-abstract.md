@@ -6,4 +6,4 @@ In this talk, Mike McGarr (Slack Engineering) will try and answer this question 
 
 
 # Bio
-see [Bio](../bio.md)
+see [Bio](../master/bio.md)
