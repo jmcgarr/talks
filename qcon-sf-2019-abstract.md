@@ -1,4 +1,4 @@
-# Micro-cultures and finding your way
+# Microcultures and finding your way
 
 When you interview for a new job, most of us will ask questions in order to understand the job a bit more. Is this job a good fit for me? Often, your question about fit is just as much about the role as it is about the company. We all want to work in an environment where we feel comfortable. We all seek out an organizational culture that aligns with our personal values. But do most of know what to look for in a company?
 
