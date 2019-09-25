@@ -1,6 +1,6 @@
-# Microcultures and finding your way
+# Microcultures and finding your place
 
-When you interview for a new job, most of us will ask questions in order to understand the job a bit more. Is this job a good fit for me? Often, your question about fit is just as much about the role as it is about the company. We all want to work in an environment where we feel comfortable. We all seek out an organizational culture that aligns with our personal values. But do most of know what to look for in a company?
+Finding a job that is a great fit can be challenging. In evaluating a potential job, each of us will inspect the opportunity from multiple angles concurrently. Does this particular role look interesting? Will it challenge and excite me? What about compensation? What are the growth opportunities? Can I meet my team? And, oh yeah, I need to make sure the culture of the company (and team) is a great fit. The role a company's culture(s) play in your overall job satisfaction can not be underestimated. So how do you go about finding the company culture of your dreams.
 
 In this talk, Mike McGarr (Slack Engineering) will try and answer this question by exploring the essence of organizational culture and how it impacts our work. Mike will also explore the micro-cultures that can exist within an organization that provide layers of influence into our lives and job satisfaction.
 
